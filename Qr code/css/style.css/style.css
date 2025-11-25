@@ -1,0 +1,26 @@
+body {
+    background-color: skyblue;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+        height: 100vh;
+    margin: 0;
+}
+.card { 
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+    box-shadow: 0 15px rebeccapurple 0, 0, 0, 0.1;
+}
+
+.card img {
+    width: 100%;
+    border-radius: 10px;
+margin-bottom: 20px;
+
+}
+
+
